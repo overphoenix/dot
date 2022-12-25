@@ -30,4 +30,10 @@ node_modules
 # MacOS directory info files
 .DS_Store
 
+# Minified bundle
+doT.min.js
+
 package-lock.json
+
+# Minified bundle
+doT.min.js
